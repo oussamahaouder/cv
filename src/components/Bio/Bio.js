@@ -21,7 +21,7 @@ export const Bio = () => {
   return (
     <section className="container container-lines">
       <p className="purple-text">
-        📚 Bio <span className="purple-smoke-text">My curriculum comprised of courses like Database Systems, Analysis of Algorithms, Web Technologies, Software Engineering, Networking, Specification and design of Graphical User interface has assisted me to gain profound knowledge in the field of Computer Science. I studied two years in preparatory classes , in which I learned basic mathematics and algorithmic processing .I am currently a fullstack web developer.</span>{" "}
+        📚 Bio<br/> <span className="purple-smoke-text">My curriculum comprised of courses like Database Systems, Analysis of Algorithms, Web Technologies, Software Engineering, Networking, Specification and design of Graphical User interface has assisted me to gain profound knowledge in the field of Computer Science. I studied two years in preparatory classes , in which I learned basic mathematics and algorithmic processing .I am currently a fullstack web developer.</span>{" "}
       </p>
       <div className="line"></div>
       {bios.map((e) => (

@@ -18,7 +18,7 @@ export const About = () => {
         <ul className="tech-stack">
           <li>Web Developer</li>
           <li>AI developer</li>
-          <li>Backed Developer</li>
+          <li>Backend Developer</li>
         </ul>
         <a className="about-see" href="#">More {"->"} </a>
       </div>
