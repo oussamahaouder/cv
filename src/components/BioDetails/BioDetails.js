@@ -8,7 +8,7 @@ export const BioDetails = () => {
         <span className="title-details">Tech Stack</span>
         <li>- reactjs</li>
         <li>- nodejs</li>
-        <li>- tailwindcss</li>
+        <li>- Java</li>
       </div>
       <div className="details-bot">
         <span className="title-details">On the web</span>

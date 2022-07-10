@@ -6,23 +6,21 @@ export const About = () => {
     <section className="container container-about">
       <div className="about-left">
         <span className="purple-text">
-          ✋Luis Cutiopala{" "}
-          <span className="purple-smoke-text">- Introducciòn</span>{" "}
+          ✋Haouder Oussama{" "}
+          <span className="purple-smoke-text">- Intro</span>{" "}
         </span>
         <p className="gray-text">
-          Hola mi nombre es Luis y me encanta desarrollar productos increibles
-          para el mundo. Llevo desarro llando hace mas de 2 años usando React y
-          Nodejs puedes ver mi{" "}
+         My name is Oussama and i am a web developer{" "}
         </p>
         <span className="white-text">
           <a href="">Portfolio</a>
         </span>
         <ul className="tech-stack">
           <li>Web Developer</li>
-          <li>Ui/Ux Designer</li>
+          <li>AI developer</li>
           <li>Backed Developer</li>
         </ul>
-        <a className="about-see" href="#">Ver màs {"->"} </a>
+        <a className="about-see" href="#">More {"->"} </a>
       </div>
       <div className="about-right">
         <img src={iconImage} alt="" />

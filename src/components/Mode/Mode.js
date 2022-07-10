@@ -15,7 +15,7 @@ export default function Mode({ handleModeChange }) {
             Source
           </li> */}
           <li>
-            <a target="_blank" href="https://github.com/cutioluis">
+            <a target="_blank" href="https://github.com/oussamahaouder">
               <span class="link-decoration">Source</span>
               <span class="icon-change">
                 <img
